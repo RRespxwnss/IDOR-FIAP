@@ -25,7 +25,7 @@ See the example below.
 <img width="1194" height="937" alt="image" src="https://github.com/user-attachments/assets/635447ac-280f-48ac-986f-74a202dafa49" />
 <img width="1193" height="936" alt="image" src="https://github.com/user-attachments/assets/cfddd886-7649-47aa-bf39-fbadfc655cc8" />
 <img width="1310" height="963" alt="image" src="https://github.com/user-attachments/assets/786ac575-38db-467f-a87a-9bc4e3525790" />
-<img width="958" height="1031" alt="image" src="https://github.com/user-attachments/assets/f29ef9b6-f05b-4531-8aa1-746a457ca5af" />
+<img width="958" height="1028" alt="image" src="https://github.com/user-attachments/assets/e9f45b4a-6af6-4c0f-aef4-86fce3f51ed9" />
 <img width="956" height="1032" alt="image" src="https://github.com/user-attachments/assets/3d8ba923-5e4f-4517-975a-3dec054ce166" />
 <img width="1081" height="909" alt="image" src="https://github.com/user-attachments/assets/41f33a2c-cf0e-4b5f-866f-10da50da3d72" />
 <img width="1363" height="876" alt="image" src="https://github.com/user-attachments/assets/7665ce72-b1a6-4e5b-9b09-4a7b08720dca" />
